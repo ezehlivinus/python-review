@@ -1,0 +1,9 @@
+1. Escape sequence in Python
+2. first = 'This is "Python", course'
+3. second = "This is 'Python', course"
+4. third = 'This is 'Python', course'
+5. fourth = "This is "Python", course"
+6. given salary = 204, convert this to float data type 204.0
+7. Given subject = 'Mathematics' extract the word, matics
+ # hint: string slicing in python
+8. Difference between list, tuple and dictionary
